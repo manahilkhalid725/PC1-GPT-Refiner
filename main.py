@@ -1,7 +1,6 @@
 import openai
 import os
 
-# Set OpenAI API Key securely (replace with your actual API key if not using environment variable)
 openai.api_key = "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"  # Replace if needed
 
 def refine_pc1_objectives(user_input):
